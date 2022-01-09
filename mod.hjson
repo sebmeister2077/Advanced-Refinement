@@ -1,0 +1,6 @@
+name: "mymindustrymod"
+displayName: "my test mod" //what displays in the mod selection menu
+author: "sebmeister2077"
+description: " "
+version: "2.6.0"
+minGameVersion: "120"
