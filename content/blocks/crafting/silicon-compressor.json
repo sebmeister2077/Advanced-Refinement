@@ -8,7 +8,7 @@
   "hasPower": false,
   "hasItems": true,
   "hasLiquids": true,
-  "craftTime": 70,
+  "craftTime": 90,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
   "updateEffectChance": 0.04,
