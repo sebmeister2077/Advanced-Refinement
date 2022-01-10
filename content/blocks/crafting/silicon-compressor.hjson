@@ -16,10 +16,10 @@ consumes: {
     items: [
       sand/4
     ]
-    liquid:{
-        liquid: slag
-        amount: 0.25
-    }
+  }
+  liquid:{
+      liquid: slag
+      amount: 0.25
   }
 }
 requirements: [
