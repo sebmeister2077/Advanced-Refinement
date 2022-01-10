@@ -14,18 +14,16 @@
   "drawLiquidLight": true,
   "updateEffectChance": 0.04,
   "consumes": {
-    "liquids": {
-      "liquids": [
-        {
-          "liquid": "slag",
-          "amount": 0.3
-        },
-        {
-          "liquid": "water",
-          "amount": 0.1
-        }
-      ]
-    }
+    "liquids": [
+      {
+        "liquid": "slag",
+        "amount": 0.3
+      },
+      {
+        "liquid": "water",
+        "amount": 0.1
+      }
+    ]
   },
   "requirements": [
     {
