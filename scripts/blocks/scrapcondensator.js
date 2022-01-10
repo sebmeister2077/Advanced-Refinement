@@ -63,3 +63,4 @@ oldRefinery.craftEffect = alloyRefined;
 oldRefinery.updateEffect = alloyRefining;
 oldRefinery.spin = 0;
 oldRefinery.consumes.liquid(Liquids.cryofluid, (3 / 18)).update(true).boost();
+oldRefinery.consumes.liquid(Liquids.water, (7 / 18)).update(true).boost();
