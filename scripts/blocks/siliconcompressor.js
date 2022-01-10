@@ -62,4 +62,4 @@ oldRefinery.buildType = () => extendContent(GenericSmelter.SmelterBuild, oldRefi
 oldRefinery.craftEffect = alloyRefined;
 oldRefinery.updateEffect = alloyRefining;
 oldRefinery.spin = 0;
-oldRefinery.consumes.liquid(Items.coal, (3 / 18)).update(true).boost();
+oldRefinery.consumes.item(Items.coal, (3 / 18)).update(true).boost();
