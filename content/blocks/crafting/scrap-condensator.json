@@ -14,12 +14,13 @@
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
   "updateEffectChance": 0.02,
+  "outputsPower": true,
+  "powerProduction": 5,
   "consumes": {
     "liquid": {
       "liquid": "slag",
       "amount": 0.3
-    },
-    "power": -2.5
+    }
   },
   "requirements": [
     {
