@@ -47,7 +47,7 @@ oldRefinery.buildType = () => extendContent(GenericSmelter.SmelterBuild, oldRefi
 	
 	draw: function(){
         this.super$draw();
-		Draw.rect(oldRefinery.topRegionB, this.x, this.y, this.totalProgress * 3.2);
+		Draw.rect(oldRefinery.topRegionB, this.x, this.y, this.totalProgress * 2.2);
 	},
 	
 	updateTile(){
@@ -62,4 +62,4 @@ oldRefinery.buildType = () => extendContent(GenericSmelter.SmelterBuild, oldRefi
 oldRefinery.craftEffect = alloyRefined;
 oldRefinery.updateEffect = alloyRefining;
 oldRefinery.spin = 0;
-oldRefinery.consumes.liquid(Liquids.water, (7 / 18)).update(true).boost();
+oldRefinery.consumes.liquid(Liquids.water, (3 / 18)).update(true).boost();
