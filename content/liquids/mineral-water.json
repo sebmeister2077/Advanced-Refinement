@@ -1,0 +1,29 @@
+{
+  "name": "Mineral water",
+  "description": "Impure water that is barren of any organic matter, can be used after further chemical processing",
+  "heatCapacity": 0.4,
+  "explosiveness": 0,
+  "temperature": 0.5,
+  "viscosity": 0.6,
+  "flammability": 0,
+  "color": "3a4e75",
+  "barColor": "007a96",
+  "lightColor": "a7b2b7",
+  "research": {
+    "parent": "water",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 4000
+      },
+      {
+        "item": "lead",
+        "amount": 2000
+      },
+      {
+        "item": "graphite",
+        "amount": 1000
+      }
+    ]
+  }
+}
