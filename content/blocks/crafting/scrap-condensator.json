@@ -14,7 +14,7 @@
   "drawLiquidLight": true,
   "updateEffectChance": 0.04,
   "consumes": {
-    "liquids": {
+    "liquid": {
       "liquid": "slag",
       "amount": 0.3
     }
