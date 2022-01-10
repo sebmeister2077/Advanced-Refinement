@@ -3,7 +3,7 @@
   "name": "Slag Condensator",
   "description": "Uses the heat from slag and water to generate power and scrap",
   "details": "Heats up water to turn turbines for power, but results in a byproduct of scrap",
-  "liquidCapacity": 30,
+  "liquidCapacity": 70,
   "health": 500,
   "size": 2,
   "hasPower": false,
