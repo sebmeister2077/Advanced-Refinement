@@ -3,6 +3,7 @@
   "name": "Silicon Compressor",
   "description": "Uses the heat and minerals from slag to efficiently produce silicon",
   "itemCapacity": 30,
+  "liquidCapacity": 45,
   "health": 650,
   "size": 4,
   "hasPower": false,
