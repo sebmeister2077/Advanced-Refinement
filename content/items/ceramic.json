@@ -5,7 +5,7 @@
   "radioactivity": 0,
   "color": "eaeaea",
   "research": {
-    "parent": "metaglass",
+    "parent": "clay",
     "requirements": [
       {
         "item": "copper",

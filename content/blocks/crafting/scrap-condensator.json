@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "ItemLiquidGenerator",
   "name": "Scrap Condensator",
   "description": "Uses the heat from slag and water to generate power and scrap",
   "details": "Heats up water to turn turbines for power, but results in a byproduct of scrap",
@@ -20,8 +20,7 @@
     "liquid": {
       "liquid": "slag",
       "amount": 0.3
-    },
-    "power": -5
+    }
   },
   "requirements": [
     {
