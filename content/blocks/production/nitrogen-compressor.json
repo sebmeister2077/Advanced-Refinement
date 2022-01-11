@@ -1,6 +1,6 @@
 {
   "name": "Nitrogen Compressor",
-  "description": "Compresses nitrogen from the air.",
+  "description": "Compresses nitrogen from the air by cooling the air. Draws power",
   "type": "Cultivator",
   "health": 200,
   "size": 2,
@@ -11,12 +11,12 @@
   "updateEffect": "pulverizeSmall",
   "updateEffectChance": 0.02,
   "craftTime": 600,
-  "liquidBoostIntensity": 1,
+  "liquidBoostIntensity": 1.5,
   "consumes": {
     "power": 14,
     "liquid": {
       "liquid": "cryofluid",
-      "amount": 0.15,
+      "amount": 0.05,
       "optional": true,
       "booster": true
     }
