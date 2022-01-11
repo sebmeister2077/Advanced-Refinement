@@ -1,0 +1,24 @@
+{
+  "name": "Nitric acid",
+  "description": "The easiest acid to make, can be used to clean items",
+  "heatCapacity": 0.1,
+  "explosiveness": 0,
+  "temperature": 0.55,
+  "viscosity": 0.55,
+  "flammability": 0,
+  "color": "79c924",
+  "barColor": "7bd11f",
+  "research": {
+    "parent": "salt",
+    "requirements": [
+      {
+        "item": "lead",
+        "amount": 3000
+      },
+      {
+        "item": "salt",
+        "amount": 2000
+      }
+    ]
+  }
+}
