@@ -1,7 +1,7 @@
 {
   "name": "Nitrogen Compressor",
   "description": "Compresses nitrogen from the air.",
-  "type": "Drill",
+  "type": "SolidPump",
   "health": 200,
   "size": 2,
   "itemCapacity": 15,
@@ -11,6 +11,9 @@
   "updateEffectChance": 0.02,
   "drillTime": 3.5,
   "liquidBoostIntensity": 2.4,
+  "pumpAmount": 0.2,
+  "attribute": "nitrogen",
+  "itemUseTime": 20,
   "consumes": {
     "power": 14,
     "liquid": {
@@ -28,9 +31,5 @@
   ],
   "category": "production",
   "research": "water-extractor",
-  "ambientSound": "drill",
-  "outputItem": {
-    "item": "nitrogen",
-    "amount": 1
-  }
+  "ambientSound": "drill"
 }
