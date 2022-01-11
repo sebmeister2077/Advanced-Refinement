@@ -2,8 +2,8 @@
   "name": "Uranium",
   "description": "A highly radioactive material. Can explode when put under pressure .\n Used for bombs and plutonium production",
   "hardness": 4,
-  "radioactivity": 1,
-  "color": "0ba544",
+  "radioactivity": 2,
+  "color": "10f90c",
   "research": {
     "parent": "thorium",
     "requirements": [

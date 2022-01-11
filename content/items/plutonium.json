@@ -2,17 +2,21 @@
   "name": "Plutonium",
   "description": "A highly explosive material when put under pressure, can be used for bombs",
   "hardness": 4,
-  "radioactivity": 1,
-  "color": "10f90c",
+  "radioactivity": 5,
+  "color": "64fce5",
   "research": {
-    "parent": "thorium",
+    "parent": "uranium",
     "requirements": [
       {
         "item": "titanium",
-        "amount": 5000
+        "amount": 8000
       },
       {
         "item": "thorium",
+        "amount": 4000
+      },
+      {
+        "item": "uranium",
         "amount": 2000
       }
     ]
