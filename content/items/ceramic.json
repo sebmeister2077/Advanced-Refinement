@@ -1,0 +1,20 @@
+{
+  "name": "Ceramic",
+  "description": "A very good insulator",
+  "hardness": 7,
+  "radioactivity": 0,
+  "color": "eaeaea",
+  "research": {
+    "parent": "metaglass",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 500
+      },
+      {
+        "item": "lead",
+        "amount": 200
+      }
+    ]
+  }
+}

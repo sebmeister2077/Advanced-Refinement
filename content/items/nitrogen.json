@@ -5,7 +5,7 @@
   "radioactivity": 0,
   "color": "64fce5",
   "research": {
-    "parent": "",
+    "parent": "zinc",
     "requirements": [
       {
         "item": "titanium",

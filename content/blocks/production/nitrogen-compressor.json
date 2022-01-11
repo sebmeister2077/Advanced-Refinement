@@ -27,7 +27,7 @@
     }
   ],
   "category": "production",
-  "research": "",
+  "research": "water-extractor",
   "ambientSound": "drill",
   "outputItem": {
     "item": "nitrogen",
