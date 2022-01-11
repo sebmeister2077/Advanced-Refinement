@@ -1,0 +1,24 @@
+{
+  "name": "Nitric acid",
+  "description": "The easiest acid to make, can be used to distil items",
+  "heatCapacity": 0.1,
+  "explosiveness": 0,
+  "temperature": 0.55,
+  "viscosity": 0.55,
+  "flammability": 0,
+  "color": "ce9129",
+  "barColor": "ce8c29",
+  "research": {
+    "parent": "salt",
+    "requirements": [
+      {
+        "item": "lead",
+        "amount": 2000
+      },
+      {
+        "item": "salt",
+        "amount": 1000
+      }
+    ]
+  }
+}

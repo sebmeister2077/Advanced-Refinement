@@ -15,15 +15,11 @@
     "requirements": [
       {
         "item": "copper",
-        "amount": 4000
+        "amount": 1000
       },
       {
         "item": "lead",
-        "amount": 2000
-      },
-      {
-        "item": "graphite",
-        "amount": 1000
+        "amount": 500
       }
     ]
   }
