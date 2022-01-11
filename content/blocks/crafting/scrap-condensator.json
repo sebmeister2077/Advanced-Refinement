@@ -1,5 +1,5 @@
 {
-  "type": "ItemLiquidGenerator",
+  "type": "BurnerGenerator",
   "name": "Scrap Condensator",
   "description": "Uses the heat from slag and water to generate power and scrap",
   "details": "Heats up water to turn turbines for power, but results in a byproduct of scrap",
