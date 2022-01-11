@@ -6,8 +6,8 @@
   "temperature": 0.55,
   "viscosity": 0.55,
   "flammability": 0,
-  "color": "79c924",
-  "barColor": "7bd11f",
+  "color": "cebb29",
+  "barColor": "cebb29",
   "research": {
     "parent": "impure-nitric-acid",
     "requirements": [
