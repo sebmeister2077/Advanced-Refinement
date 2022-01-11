@@ -1,0 +1,24 @@
+{
+  "name": "Zinc",
+  "description": "Zinc is the refined metal made from Sphalerite.\n Can easily react with other substances when put under favorable conditions",
+  "hardness": 2,
+  "radioactivity": 0,
+  "color": "3f2c4f",
+  "research": {
+    "parent": "sphalerite",
+    "requirements": [
+      {
+        "item": "lead",
+        "amount": 4000
+      },
+      {
+        "item": "titanium",
+        "amount": 2500
+      },
+      {
+        "item": "sphalerite",
+        "amount": 1500
+      }
+    ]
+  }
+}

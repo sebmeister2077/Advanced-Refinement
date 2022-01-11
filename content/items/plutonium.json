@@ -1,0 +1,20 @@
+{
+  "name": "Plutonium",
+  "description": "A highly explosive material when put under pressure, can be used for bombs",
+  "hardness": 4,
+  "radioactivity": 1,
+  "color": "10f90c",
+  "research": {
+    "parent": "thorium",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 5000
+      },
+      {
+        "item": "thorium",
+        "amount": 2000
+      }
+    ]
+  }
+}

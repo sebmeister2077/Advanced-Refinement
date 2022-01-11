@@ -1,0 +1,20 @@
+{
+  "name": "Sphalerite",
+  "description": "Mainly used for extracting Zinc",
+  "hardness": 2,
+  "radioactivity": 0,
+  "color": "504756",
+  "research": {
+    "parent": "scrap",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 4000
+      },
+      {
+        "item": "scrap",
+        "amount": 2500
+      }
+    ]
+  }
+}
