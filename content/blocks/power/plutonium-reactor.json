@@ -1,0 +1,54 @@
+{
+  "type": "NuclearReactor",
+  "name": "Plutonium Reactor",
+  "description": "The best type of fission reactor there could be",
+  "itemCapacity": 20,
+  "liquidCapacity": 150,
+  "health": 1250,
+  "size": 5,
+  "itemDuration": 1200,
+  "baseExplosiveness": 70,
+  "heating": 0.005,
+  "explosionRadius": 12,
+  "explosionDamage": 5500,
+  "smokeThreshold": 0.25,
+  "flashThreshold": 0.4,
+  "coolantPower": 0.5,
+  "powerProduction": 75,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "plutonium",
+          "amount": 1
+        }
+      ]
+    },
+    "liquid": {
+      "liquid": "liquid-nitrogen",
+      "amount": 0.5
+    }
+  },
+  "requirements": [
+    {
+      "item": "silicon",
+      "amounut": 850
+    },
+    {
+      "item": "thorium",
+      "amounut": 1250
+    },
+    {
+      "item": "titanium",
+      "amounut": 1450
+    },
+    {
+      "item": "ceramic",
+      "amounut": 250
+    }
+  ],
+  "category": "power",
+  "research": "uranium-reactor",
+  "ambientSound": "fire",
+  "ambientVolume": 0.25
+}
