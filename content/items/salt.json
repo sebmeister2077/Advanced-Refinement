@@ -1,0 +1,20 @@
+{
+  "name": "Salt",
+  "description": "Regular salt",
+  "hardness": 4,
+  "radioactivity": 0,
+  "color": "eaeaea",
+  "research": {
+    "parent": "lead",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 500
+      },
+      {
+        "item": "lead",
+        "amount": 200
+      }
+    ]
+  }
+}

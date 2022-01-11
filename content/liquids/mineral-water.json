@@ -1,7 +1,7 @@
 {
   "name": "Mineral water",
   "description": "Impure water that is barren of any organic matter, can be used after further filtering",
-  "deatils": "Has a lot of dust and ash disolved in it",
+  "details": "Has a lot of dust and ash disolved in it",
   "heatCapacity": 0.4,
   "explosiveness": 0,
   "temperature": 0.5,
