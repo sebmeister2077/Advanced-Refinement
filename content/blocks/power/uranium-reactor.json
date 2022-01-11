@@ -1,0 +1,54 @@
+{
+  "type": "NuclearReactor",
+  "name": "Uranium Reactor",
+  "description": "Makes more power than Thorium Reactor, but is pretty unstable. Player is advised to upgrade to Plutonnium Reactor.",
+  "itemCapacity": 20,
+  "liquidCapacity": 150,
+  "health": 900,
+  "size": 4,
+  "itemDuration": 600,
+  "baseExplosiveness": 90,
+  "heating": 0.01,
+  "explosionRadius": 20,
+  "explosionDamage": 2500,
+  "smokeThreshold": 0.25,
+  "flashThreshold": 0.5,
+  "coolantPower": 0.35,
+  "powerProduction": 50,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "uranium",
+          "amount": 1.5
+        }
+      ]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0.3
+    }
+  },
+  "requirements": [
+    {
+      "item": "silicon",
+      "amounut": 850
+    },
+    {
+      "item": "thorium",
+      "amounut": 1250
+    },
+    {
+      "item": "titanium",
+      "amounut": 1450
+    },
+    {
+      "item": "ceramic",
+      "amounut": 250
+    }
+  ],
+  "category": "power",
+  "research": "thorium-reactor",
+  "ambientSound": "fire",
+  "ambientVolume": 0.25
+}
