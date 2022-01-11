@@ -1,19 +1,17 @@
 {
   "name": "Nitrogen Compressor",
   "description": "Compresses nitrogen from the air.",
-  "type": "SolidPump",
+  "type": "Cultivator",
   "health": 200,
   "size": 2,
   "itemCapacity": 15,
   "liquidCapacity": 30,
   "hasPower": true,
+  "hasItems": true,
   "updateEffect": "pulverizeSmall",
   "updateEffectChance": 0.02,
-  "drillTime": 3.5,
-  "liquidBoostIntensity": 2.4,
-  "pumpAmount": 0.2,
-  "attribute": "nitrogen",
-  "itemUseTime": 20,
+  "craftTime": 20,
+  "liquidBoostIntensity": 1,
   "consumes": {
     "power": 14,
     "liquid": {
@@ -31,5 +29,9 @@
   ],
   "category": "production",
   "research": "water-extractor",
-  "ambientSound": "drill"
+  "ambientSound": "drill",
+  "outputItem": {
+    "item": "nitrogen",
+    "amount": 1
+  }
 }
