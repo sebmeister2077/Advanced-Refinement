@@ -1,0 +1,20 @@
+{
+  "name": "Liquid Nitrogen",
+  "description": "A very cool liquid that is at most -200*C",
+  "heatCapacity": 0.7,
+  "explosiveness": 0,
+  "temperature": 0.1,
+  "viscosity": 0.2,
+  "flammability": 0,
+  "color": "3a3a39",
+  "barColor": "353533",
+  "research": {
+    "parent": "nitrogen",
+    "requirements": [
+      {
+        "item": "nitrogen",
+        "amount": 1000
+      }
+    ]
+  }
+}

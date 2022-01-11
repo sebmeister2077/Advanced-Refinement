@@ -19,6 +19,12 @@
         {
           "item": "sand",
           "amount": 4
+        },
+        {
+          "item": "coal",
+          "amount": 1,
+          "booster": true,
+          "optional": true
         }
       ]
     },
