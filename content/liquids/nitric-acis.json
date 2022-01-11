@@ -1,6 +1,6 @@
 {
   "name": "Nitric acid",
-  "description": "The easiest acid to make, can be used to clean items",
+  "description": "Has a higher acidity level, can be used to clean items with medium efficiency and used in creating of other chemicals",
   "heatCapacity": 0.1,
   "explosiveness": 0,
   "temperature": 0.55,

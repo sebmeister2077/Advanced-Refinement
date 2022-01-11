@@ -1,0 +1,24 @@
+{
+  "name": "Carbonic acid",
+  "description": "Can be used to clean items with low efficiency",
+  "heatCapacity": 0.3,
+  "explosiveness": 0,
+  "temperature": 0.4,
+  "viscosity": 0.4,
+  "flammability": 0,
+  "color": "3a3a39",
+  "barColor": "353533",
+  "research": {
+    "parent": "coal",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 3000
+      },
+      {
+        "item": "coal",
+        "amount": 1000
+      }
+    ]
+  }
+}
