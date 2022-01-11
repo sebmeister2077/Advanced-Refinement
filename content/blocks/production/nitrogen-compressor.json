@@ -10,7 +10,7 @@
   "hasItems": true,
   "updateEffect": "pulverizeSmall",
   "updateEffectChance": 0.02,
-  "craftTime": 20,
+  "craftTime": 600,
   "liquidBoostIntensity": 1,
   "consumes": {
     "power": 14,
