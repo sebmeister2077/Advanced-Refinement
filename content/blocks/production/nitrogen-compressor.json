@@ -7,7 +7,7 @@
   "itemCapacity": 15,
   "liquidCapacity": 30,
   "hasPower": true,
-  "updateEffect": "mineSmall",
+  "updateEffect": "pulverizeSmall",
   "updateEffectChance": 0.02,
   "drillTime": 3.5,
   "liquidBoostIntensity": 2.4,
