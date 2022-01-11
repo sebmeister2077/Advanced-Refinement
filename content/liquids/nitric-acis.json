@@ -9,7 +9,7 @@
   "color": "79c924",
   "barColor": "7bd11f",
   "research": {
-    "parent": "salt",
+    "parent": "impure-nitric-acid",
     "requirements": [
       {
         "item": "lead",
