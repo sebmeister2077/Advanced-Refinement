@@ -1,0 +1,20 @@
+{
+  "name": "Crystal",
+  "description": "A crystal used in advanced machinery",
+  "hardness": 8,
+  "radioactivity": 0,
+  "color": "995038",
+  "research": {
+    "parent": "scrap",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1500
+      },
+      {
+        "item": "lead",
+        "amount": 800
+      }
+    ]
+  }
+}

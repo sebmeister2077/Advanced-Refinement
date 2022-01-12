@@ -1,27 +1,26 @@
 {
   "type": "GenericSmelter",
-  "name": "Ceramic Smelter",
-  "description": "Creates Ceramic from Clay",
+  "name": "Iron Smelter",
+  "description": "Creates Iron from Hematite",
   "itemCapacity": 15,
-  "liquidCapacity": 15,
   "health": 350,
   "size": 2,
   "hasPower": true,
   "hasItems": true,
-  "craftTime": 90,
+  "craftTime": 180,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
-  "updateEffectChance": 0.04,
+  "updateEffectChance": 0.02,
   "consumes": {
     "items": {
       "items": [
         {
-          "item": "clay",
+          "item": "hematite",
           "amount": 4
         },
         {
           "item": "coal",
-          "amount": 1
+          "amount": 3
         }
       ]
     },
@@ -48,7 +47,7 @@
   "category": "crafting",
   "research": "kiln",
   "outputItem": {
-    "item": "ceramic",
-    "amount": 3
+    "item": "iron",
+    "amount": 4
   }
 }

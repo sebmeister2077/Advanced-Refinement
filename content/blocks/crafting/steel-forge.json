@@ -1,27 +1,30 @@
 {
   "type": "GenericSmelter",
-  "name": "Ceramic Smelter",
-  "description": "Creates Ceramic from Clay",
+  "name": "Steel Forge",
+  "description": "Creates Steel in an energy intensely reaction between Iron and Graphite",
   "itemCapacity": 15,
-  "liquidCapacity": 15,
-  "health": 350,
+  "health": 550,
   "size": 2,
   "hasPower": true,
   "hasItems": true,
-  "craftTime": 90,
+  "craftTime": 600,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
-  "updateEffectChance": 0.04,
+  "updateEffectChance": 0.01,
   "consumes": {
     "items": {
       "items": [
         {
-          "item": "clay",
-          "amount": 4
+          "item": "iron",
+          "amount": 5
+        },
+        {
+          "item": "graphite",
+          "amount": 3
         },
         {
           "item": "coal",
-          "amount": 1
+          "amount": 8
         }
       ]
     },
@@ -41,14 +44,14 @@
       "amount": 125
     },
     {
-      "item": "metaglass",
+      "item": "iron",
       "amount": 75
     }
   ],
   "category": "crafting",
   "research": "kiln",
   "outputItem": {
-    "item": "ceramic",
-    "amount": 3
+    "item": "steel",
+    "amount": 4
   }
 }
