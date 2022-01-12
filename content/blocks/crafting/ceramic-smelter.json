@@ -31,7 +31,7 @@
     "liquid": {
       "liquid": "slag",
       "amount": 0.05,
-      "optional": false,
+      "optional": true,
       "booster": true
     }
   },
