@@ -1,0 +1,62 @@
+{
+  "type": "GenericSmelter",
+  "name": "Ceramic Smelter",
+  "description": "Creates Ceramic from Clay",
+  "itemCapacity": 20,
+  "liquidCapacity": 25,
+  "health": 350,
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 90,
+  "buildCostMultiplier": 1.0,
+  "drawLiquidLight": true,
+  "updateEffectChance": 0.04,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "clay",
+          "amount": 4
+        },
+        {
+          "item": "coal",
+          "amount": 1,
+          "booster": true,
+          "optional": true
+        }
+      ]
+    },
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.05,
+      "optional": false,
+      "booster": true
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 600
+    },
+    {
+      "item": "titanium",
+      "amount": 250
+    },
+    {
+      "item": "silicon",
+      "amount": 125
+    },
+    {
+      "item": "metaglass",
+      "amount": 75
+    }
+  ],
+  "category": "crafting",
+  "research": "silicon-crucible",
+  "outputItem": {
+    "item": "ceramic",
+    "amount": 3
+  }
+}
