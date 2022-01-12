@@ -14,6 +14,7 @@
   "updateEffect": "pulverizeSmall",
   "liquidBoostIntensity": 2,
   "updateEffectChance": 0.02,
+  "drawRim": true,
   "consumes": {
     "power": 15,
     "liquid": {
