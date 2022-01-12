@@ -9,7 +9,6 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
-  "liquidBoostIntensity": 6.6,
   "craftTime": 90,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
@@ -26,12 +25,6 @@
           "amount": 1
         }
       ]
-    },
-    "liquid": {
-      "liquid": "slag",
-      "amount": 0.05,
-      "optional": true,
-      "booster": true
     },
     "power": 1
   },
@@ -54,7 +47,7 @@
     }
   ],
   "category": "crafting",
-  "research": "silicon-crucible",
+  "research": "kiln",
   "outputItem": {
     "item": "ceramic",
     "amount": 3
