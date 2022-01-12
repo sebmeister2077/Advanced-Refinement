@@ -1,21 +1,6 @@
-new Item("ceramic")
-new Item("clay")
-new Item("crystal")
-new Item("hematite")
-new Item("iron")
-new Item("nitrogen")
-new Item("plutonium")
-new Item("raw-crystal")
-new Item("salt")
-new Item("sphalerite")
-new Item("steel")
-new Item("uranium")
-new Item("zinc")
-new Liquid("carbonic-acid")
-new Liquid("impure-nitric-acid")
-new Liquid("liquid-nitrogen")
-new Liquid("mineral-water")
-new Liquid("nitric-acid")
-
 require('blocks/silicon-compressor')
 require('blocks/scrap-condensator')
+
+//init
+require('items');
+require('liquids');
