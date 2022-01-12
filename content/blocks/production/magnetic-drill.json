@@ -12,6 +12,7 @@
   "hasPower": true,
   "hasItems": true,
   "updateEffect": "pulverizeSmall",
+  "liquidBoostIntensity": 2,
   "updateEffectChance": 0.02,
   "consumes": {
     "power": 15,
