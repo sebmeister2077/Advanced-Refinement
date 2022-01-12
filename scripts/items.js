@@ -12,32 +12,34 @@
 // const uranium = extendContent(Item, "uranium", {});
 // const zinc = extendContent(Item, "zinc", {});
 
-// module.exports = {
-//     ceramic: ceramic,
-//     clay: clay,
-//     crystal: crystal,
-//     hematite: hematite,
-//     iron: iron,
-//     nitrogen: nitrogen,
-//     plutonium: plutonium,
-//     rawCrystal: rawCrystal,
-//     salt: salt,
-//     sphalerite: sphalerite,
-//     steel: steel,
-//     uranium: uranium,
-//     zinc: zinc
-// }
 
-// const ceramic = new Item("ceramic")
-// const clay =new Item("clay")
-// const crystal = new Item("crystal")
-// const hematite = new Item("hematite")
-// const iron =new Item("iron")
-// const nitrogen =new Item("nitrogen")
-// const plutonium =new Item("plutonium")
-// const rawCrystal =new Item("raw-crystal")
-// const salt =new Item("salt")
-// const sphalerite =new Item("sphalerite")
-// const steel =new Item("steel")
-// const uranium =new Item("uranium")
-// const zinc = new Item("zinc")
+
+const ceramic = new Item("ceramic")
+const clay =new Item("clay")
+const crystal = new Item("crystal")
+const hematite = new Item("hematite")
+const iron =new Item("iron")
+const nitrogen =new Item("nitrogen")
+const plutonium =new Item("plutonium")
+const rawCrystal =new Item("raw-crystal")
+const salt =new Item("salt")
+const sphalerite =new Item("sphalerite")
+const steel =new Item("steel")
+const uranium =new Item("uranium")
+const zinc = new Item("zinc")
+
+module.exports = {
+    ceramic: ceramic,
+    clay: clay,
+    crystal: crystal,
+    hematite: hematite,
+    iron: iron,
+    nitrogen: nitrogen,
+    plutonium: plutonium,
+    rawCrystal: rawCrystal,
+    salt: salt,
+    sphalerite: sphalerite,
+    steel: steel,
+    uranium: uranium,
+    zinc: zinc
+}
