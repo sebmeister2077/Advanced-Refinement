@@ -2,8 +2,8 @@
   "type": "GenericSmelter",
   "name": "Ceramic Smelter",
   "description": "Creates Ceramic from Clay",
-  "itemCapacity": 20,
-  "liquidCapacity": 25,
+  "itemCapacity": 15,
+  "liquidCapacity": 15,
   "health": 350,
   "size": 2,
   "hasPower": true,
@@ -15,7 +15,6 @@
   "drawLiquidLight": true,
   "updateEffectChance": 0.04,
   "consumes": {
-    "power": 1,
     "items": {
       "items": [
         {
@@ -33,7 +32,8 @@
       "amount": 0.05,
       "optional": true,
       "booster": true
-    }
+    },
+    "power": 1
   },
   "requirements": [
     {
