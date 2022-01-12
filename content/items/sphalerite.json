@@ -1,4 +1,5 @@
 {
+  "type": "material",
   "name": "Sphalerite",
   "description": "Mainly used for extracting Zinc",
   "hardness": 2,

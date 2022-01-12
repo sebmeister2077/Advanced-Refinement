@@ -1,4 +1,5 @@
 {
+  "type": "material",
   "name": "Iron",
   "description": "",
   "hardness": 5,

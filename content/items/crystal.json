@@ -1,4 +1,5 @@
 {
+  "type": "material",
   "name": "Crystal",
   "description": "A crystal used in advanced machinery",
   "hardness": 8,

@@ -1,4 +1,5 @@
 {
+  "type": "material",
   "name": "Nitrogen",
   "description": "An abundant substance found in the air.",
   "hardness": 1,

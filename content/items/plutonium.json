@@ -1,4 +1,5 @@
 {
+  "type": "material",
   "name": "Plutonium",
   "description": "A highly explosive material when put under pressure, can be used for bombs",
   "hardness": 4,
