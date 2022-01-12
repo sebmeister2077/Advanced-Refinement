@@ -1,0 +1,3 @@
+-setup initial content and item connections
+-add sprites for blocks
+-add maps
