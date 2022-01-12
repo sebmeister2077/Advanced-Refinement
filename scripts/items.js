@@ -1,7 +1,7 @@
-const ceramic = extendContent(Item, "ceramic", {});
-const clay = extendContent(Item, "clay", {});
-const crystal = extendContent(Item, "crystal", {});
-const hematite = extendContent(Item, "hematite", {});
+// const ceramic = extendContent(Item, "ceramic", {});
+// const clay = extendContent(Item, "clay", {});
+// const crystal = extendContent(Item, "crystal", {});
+// const hematite = extendContent(Item, "hematite", {});
 // const iron = extendContent(Item, "iron", {});
 // const nitrogen = extendContent(Item, "nitrogen", {});
 // const plutonium = extendContent(Item, "plutonium", {});
@@ -28,21 +28,16 @@ const hematite = extendContent(Item, "hematite", {});
 //     zinc: zinc
 // }
 
-new Item("ceramic")
-new Item("clay")
-new Item("crystal")
-new Item("hematite")
-new Item("iron")
-new Item("nitrogen")
-new Item("plutonium")
-new Item("raw-crystal")
-new Item("salt")
-new Item("sphalerite")
-new Item("steel")
-new Item("uranium")
-new Item("zinc")
-new Liquid("carbonic-acid")
-new Liquid("impure-nitric-acid")
-new Liquid("liquid-nitrogen")
-new Liquid("mineral-water")
-new Liquid("nitric-acid")
+const ceramic = new Item("ceramic")
+const clay =new Item("clay")
+const crystal = new Item("crystal")
+const hematite = new Item("hematite")
+const iron =new Item("iron")
+const nitrogen =new Item("nitrogen")
+const plutonium =new Item("plutonium")
+const rawCrystal =new Item("raw-crystal")
+const salt =new Item("salt")
+const sphalerite =new Item("sphalerite")
+const steel =new Item("steel")
+const uranium =new Item("uranium")
+const zinc = new Item("zinc")
