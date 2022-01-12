@@ -1,0 +1,28 @@
+{
+  "name": "Magnetic Drill",
+  "description": "",
+  "type": "Drill",
+  "health": 350,
+  "size": 4,
+  "tier": 6,
+  "drillTime": 300,
+  "warmupSpeed": 0.01,
+  "itemCapacity": 15,
+  "liquidCapacity": 30,
+  "hasPower": true,
+  "hasItems": true,
+  "updateEffect": "pulverizeSmall",
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "power": 15
+  },
+  "requirements": [
+    {
+      "item": "iron",
+      "amount": 950
+    }
+  ],
+  "category": "production",
+  "research": "water-extractor",
+  "ambientSound": "drill"
+}
