@@ -5,7 +5,7 @@
   "hardness": 1,
   "cost": 1,
   "radioactivity": 0,
-  "color": "995038",
+  "color": "577025",
   "research": {
     "parent": "sand",
     "requirements": [
