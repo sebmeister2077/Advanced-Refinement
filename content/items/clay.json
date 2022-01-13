@@ -1,0 +1,22 @@
+{
+  "type": "material",
+  "name": "Clay",
+  "description": "A very soft material",
+  "hardness": 1,
+  "cost": 1,
+  "radioactivity": 0,
+  "color": "995038",
+  "research": {
+    "parent": "sand",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1500
+      },
+      {
+        "item": "lead",
+        "amount": 800
+      }
+    ]
+  }
+}
