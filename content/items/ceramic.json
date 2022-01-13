@@ -4,7 +4,7 @@
   "description": "A very good insulator",
   "hardness": 7,
   "radioactivity": 0,
-  "color": "eaeaea",
+  "color": "c1bb64",
   "research": {
     "parent": "clay",
     "requirements": [

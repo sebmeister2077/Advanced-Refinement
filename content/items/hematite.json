@@ -4,7 +4,7 @@
   "description": "The primary ores of iron are hematite, limonite, magnetite and siderite, with hematite being the most commonly used for the production of iron.",
   "hardness": 5,
   "radioactivity": 0,
-  "color": "995038",
+  "color": "51040c",
   "research": {
     "parent": "scrap",
     "requirements": [
