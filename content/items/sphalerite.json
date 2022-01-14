@@ -10,11 +10,11 @@
     "requirements": [
       {
         "item": "copper",
-        "amount": 4000
+        "amount": 2000
       },
       {
         "item": "scrap",
-        "amount": 2500
+        "amount": 800
       }
     ]
   }

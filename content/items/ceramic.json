@@ -9,12 +9,12 @@
     "parent": "clay",
     "requirements": [
       {
-        "item": "copper",
+        "item": "clay",
         "amount": 500
       },
       {
-        "item": "lead",
-        "amount": 200
+        "item": "sand",
+        "amount": 1200
       }
     ]
   }

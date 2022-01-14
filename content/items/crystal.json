@@ -6,14 +6,14 @@
   "radioactivity": 0,
   "color": "442c7f",
   "research": {
-    "parent": "scrap",
+    "parent": "raw-crystal",
     "requirements": [
       {
-        "item": "copper",
+        "item": "scrap",
         "amount": 1500
       },
       {
-        "item": "lead",
+        "item": "raw-crystal",
         "amount": 800
       }
     ]

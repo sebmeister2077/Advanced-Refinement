@@ -10,15 +10,15 @@
     "requirements": [
       {
         "item": "lead",
-        "amount": 4000
+        "amount": 2000
       },
       {
         "item": "titanium",
-        "amount": 2500
+        "amount": 500
       },
       {
         "item": "sphalerite",
-        "amount": 1500
+        "amount": 1000
       }
     ]
   }

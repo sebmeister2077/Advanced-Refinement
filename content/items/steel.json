@@ -6,14 +6,14 @@
   "radioactivity": 0,
   "color": "995038",
   "research": {
-    "parent": "scrap",
+    "parent": "iron",
     "requirements": [
       {
-        "item": "copper",
+        "item": "iron",
         "amount": 1500
       },
       {
-        "item": "lead",
+        "item": "gold-coin",
         "amount": 800
       }
     ]

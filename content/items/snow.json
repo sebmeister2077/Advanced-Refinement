@@ -8,11 +8,7 @@
     "requirements": [
       {
         "item": "copper",
-        "amount": 1500
-      },
-      {
-        "item": "lead",
-        "amount": 800
+        "amount": 500
       }
     ]
   }

@@ -14,6 +14,10 @@
         "amount": 1500
       },
       {
+        "item": "sand",
+        "amount": 400
+      },
+      {
         "item": "lead",
         "amount": 800
       }

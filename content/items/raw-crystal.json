@@ -9,12 +9,12 @@
     "parent": "scrap",
     "requirements": [
       {
-        "item": "copper",
-        "amount": 1500
+        "item": "scrap",
+        "amount": 500
       },
       {
-        "item": "lead",
-        "amount": 800
+        "item": "copper",
+        "amount": 1250
       }
     ]
   }
