@@ -1,6 +1,6 @@
 {
   "type": "material",
-  "name": "Gold Coin",
+  "name": "Copper Coin",
   "description": "The in-game currency for unlocking specific recipes",
   "color": "d1b608",
   "research": {
