@@ -3,8 +3,6 @@
   "name": "Copper Coin",
   "description": "The in-game currency for unlocking specific recipes",
   "color": "d17723",
-  "research": {
-    "parent": "copper"
-  },
+  "research": "core-shard",
   "alwaysUnlocked": true
 }
