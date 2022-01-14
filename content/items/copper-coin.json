@@ -2,14 +2,9 @@
   "type": "material",
   "name": "Copper Coin",
   "description": "The in-game currency for unlocking specific recipes",
-  "color": "d1b608",
+  "color": "d17723",
   "research": {
-    "parent": "copper",
-    "requirements": [
-      {
-        "item": "copper",
-        "amount": 5500
-      }
-    ]
-  }
+    "parent": "copper"
+  },
+  "alwaysUnlocked": true
 }
