@@ -1,0 +1,19 @@
+{
+  "type": "material",
+  "name": "Snow",
+  "description": "Do you want to make a snowman?",
+  "color": "000000",
+  "research": {
+    "parent": "water",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1500
+      },
+      {
+        "item": "lead",
+        "amount": 800
+      }
+    ]
+  }
+}

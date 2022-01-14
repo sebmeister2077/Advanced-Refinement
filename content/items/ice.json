@@ -1,0 +1,19 @@
+{
+  "type": "material",
+  "name": "Ice",
+  "description": "Better for cooling than snow",
+  "color": "c2d9fc",
+  "research": {
+    "parent": "snow",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1500
+      },
+      {
+        "item": "lead",
+        "amount": 800
+      }
+    ]
+  }
+}
