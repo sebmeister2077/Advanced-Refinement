@@ -3,6 +3,7 @@
   "name": "Super Scrubber",
   "description": "Scavanges for other materials present in scrap, needs most acidity",
   "itemCapacity": 15,
+  "liquidCapacity": 20,
   "health": 750,
   "size": 3,
   "hasPower": true,
@@ -24,7 +25,7 @@
     "power": 2,
     "liquid": {
       "liquid": "nitric-acid",
-      "amount": 0.2
+      "amount": 0.3
     }
   },
   "requirements": [
