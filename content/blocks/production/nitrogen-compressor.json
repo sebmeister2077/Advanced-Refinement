@@ -12,6 +12,7 @@
   "updateEffectChance": 0.02,
   "craftTime": 600,
   "liquidBoostIntensity": 6,
+  "drawRim": true,
   "consumes": {
     "power": 6,
     "liquid": {
