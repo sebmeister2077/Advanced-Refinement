@@ -1,0 +1,48 @@
+{
+  "type": "Separator",
+  "name": "Basic Scrubber",
+  "description": "Scavanges for other materials present in sand",
+  "itemCapacity": 10,
+  "health": 350,
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 160,
+  "buildCostMultiplier": 1.0,
+  "drawLiquidLight": true,
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "sand",
+          "amount": 4
+        }
+      ]
+    },
+    "power": 1.5,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 600
+    },
+    {
+      "item": "lead",
+      "amount": 250
+    }
+  ],
+  "category": "crafting",
+  "research": "graphite-press",
+  "results": [
+    {
+      "item": "clay",
+      "amount": 2
+    }
+  ]
+}

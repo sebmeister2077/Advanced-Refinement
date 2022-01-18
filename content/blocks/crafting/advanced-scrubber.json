@@ -1,0 +1,56 @@
+{
+  "type": "Separator",
+  "name": "Advanced Scrubber",
+  "description": "Scavanges for other materials present in scrap, needs acidity",
+  "itemCapacity": 12,
+  "health": 450,
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 45,
+  "buildCostMultiplier": 1.0,
+  "drawLiquidLight": true,
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "scrap",
+          "amount": 2
+        }
+      ]
+    },
+    "power": 1,
+    "liquid": {
+      "liquid": "carbonic-acid",
+      "amount": 0.1
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 600
+    },
+    {
+      "item": "lead",
+      "amount": 250
+    }
+  ],
+  "category": "crafting",
+  "research": "basic-scrubber",
+  "results": [
+    {
+      "item": "sand",
+      "amount": 2
+    },
+    {
+      "item": "sphalerite",
+      "amount": 1
+    },
+    {
+      "item": "raw-crystal",
+      "amount": 0.2
+    }
+  ]
+}
