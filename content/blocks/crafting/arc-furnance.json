@@ -1,0 +1,50 @@
+{
+  "type": "GenericSmelter",
+  "name": "Arc Furnance",
+  "description": "Uses sparks from supercapacitors to heat crystals instantaniously for a few microseconds allowing the stomic bonds to restructure",
+  "itemCapacity": 15,
+  "health": 750,
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 360,
+  "buildCostMultiplier": 1.0,
+  "drawLiquidLight": true,
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "sphalerite",
+          "amount": 3
+        }
+      ]
+    },
+    "liquid": {
+      "liquid": "carbonic-acid",
+      "amount": 0.1
+    },
+    "power": 8
+  },
+  "requirements": [
+    {
+      "item": "copper-coin",
+      "amount": 600
+    },
+    {
+      "item": "titanium",
+      "amount": 300
+    },
+    {
+      "item": "silicon",
+      "amount": 225
+    }
+  ],
+  "category": "crafting",
+  "research": "kiln",
+  "outputItem": {
+    "item": "zinc",
+    "amount": 3
+  }
+}

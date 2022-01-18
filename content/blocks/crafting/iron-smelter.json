@@ -45,7 +45,7 @@
     }
   ],
   "category": "crafting",
-  "research": "kiln",
+  "research": "silicon-smelter",
   "outputItem": {
     "item": "iron",
     "amount": 4
