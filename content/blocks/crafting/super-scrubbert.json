@@ -1,14 +1,14 @@
 {
   "type": "Separator",
-  "name": "Advanced Scrubber",
-  "description": "Scavanges for other materials present in scrap, needs more acidity",
+  "name": "Super Scrubber",
+  "description": "Scavanges for other materials present in scrap, needs most acidity",
   "itemCapacity": 15,
-  "health": 550,
+  "health": 750,
   "size": 3,
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
-  "craftTime": 45,
+  "craftTime": 30,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
   "updateEffectChance": 0.01,
@@ -17,11 +17,11 @@
       "items": [
         {
           "item": "scrap",
-          "amount": 4
+          "amount": 5
         }
       ]
     },
-    "power": 1,
+    "power": 2,
     "liquid": {
       "liquid": "nitric-acid",
       "amount": 0.2
@@ -45,11 +45,15 @@
       "amount": 3
     },
     {
-      "item": "hematite",
-      "amount": 2
+      "item": "sphalerite",
+      "amount": 3
     },
     {
       "item": "raw-crystal",
+      "amount": 2
+    },
+    {
+      "item": "hematite",
       "amount": 1
     }
   ]

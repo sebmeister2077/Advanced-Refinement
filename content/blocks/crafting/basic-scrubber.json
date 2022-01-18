@@ -17,7 +17,7 @@
       "items": [
         {
           "item": "sand",
-          "amount": 4
+          "amount": 2
         }
       ]
     },
@@ -42,7 +42,7 @@
   "results": [
     {
       "item": "clay",
-      "amount": 2
+      "amount": 1
     }
   ]
 }

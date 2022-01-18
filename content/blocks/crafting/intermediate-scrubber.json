@@ -42,15 +42,11 @@
   "results": [
     {
       "item": "sand",
+      "amount": 3
+    },
+    {
+      "item": "hematite",
       "amount": 2
-    },
-    {
-      "item": "sphalerite",
-      "amount": 1
-    },
-    {
-      "item": "raw-crystal",
-      "amount": 0.2
     }
   ]
 }
