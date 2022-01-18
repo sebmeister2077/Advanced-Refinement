@@ -4,6 +4,7 @@
   "description": "Its beatiful to look at.",
   "hardness": 7,
   "radioactivity": 0,
+  "cost": 1,
   "color": "0c2775",
   "research": {
     "parent": "scrap",
