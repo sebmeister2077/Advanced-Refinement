@@ -8,7 +8,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
-  "craftTime": 60,
+  "craftTime": 45,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
   "updateEffectChance": 0.01,
@@ -46,15 +46,15 @@
     },
     {
       "item": "sphalerite",
-      "amount": 2
+      "amount": 3
     },
     {
       "item": "raw-crystal",
-      "amount": 1
+      "amount": 2
     },
     {
       "item": "hematite",
-      "amount": 0.5
+      "amount": 1
     }
   ]
 }
