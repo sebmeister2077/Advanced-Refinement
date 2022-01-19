@@ -33,16 +33,12 @@
       "amount": 600
     },
     {
-      "item": "titanium",
-      "amount": 250
+      "item": "lead",
+      "amount": 450
     },
     {
       "item": "silicon",
       "amount": 125
-    },
-    {
-      "item": "metaglass",
-      "amount": 75
     }
   ],
   "category": "crafting",

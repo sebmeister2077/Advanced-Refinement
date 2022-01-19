@@ -1,0 +1,36 @@
+{
+  "type": "GenericSmelter",
+  "name": "Coin Press",
+  "description": "Presses copper into a coin shape",
+  "itemCapacity": 20,
+  "health": 1250,
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 180,
+  "drawLiquidLight": true,
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 6
+        }
+      ]
+    },
+    "power": 0.5
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 2000
+    }
+  ],
+  "category": "crafting",
+  "research": "graphite-press",
+  "outputItem": {
+    "item": "copper-coin",
+    "amount": 1
+  }
+}
