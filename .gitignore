@@ -6,5 +6,5 @@
 *.sqlite
 *.suo
 
-/.vs
+*/.vs
 /slnx
