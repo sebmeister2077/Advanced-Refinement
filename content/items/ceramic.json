@@ -3,7 +3,6 @@
   "name": "Ceramic",
   "description": "A very good insulator",
   "hardness": 7,
-  "radioactivity": 0,
   "color": "c1bb64",
   "research": {
     "parent": "clay",
