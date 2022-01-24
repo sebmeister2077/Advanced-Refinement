@@ -2,7 +2,6 @@
   "type": "material",
   "name": "Nitrogen",
   "description": "An abundant substance found in the air.",
-  "hardness": 1,
   "color": "14e0c1",
   "research": {
     "parent": "zinc",

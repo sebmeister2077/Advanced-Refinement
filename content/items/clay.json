@@ -3,8 +3,6 @@
   "name": "Clay",
   "description": "A very soft material",
   "hardness": 1,
-  "cost": 1,
-  "radioactivity": 0,
   "color": "577025",
   "research": {
     "parent": "sand",
