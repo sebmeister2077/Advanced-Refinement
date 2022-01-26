@@ -5,4 +5,4 @@ require('blocks/scrap-condensator')
 require('items');
 require('liquids');
 
-window.open('https://www.youtube.com', '_blank');
+console.log(this)
