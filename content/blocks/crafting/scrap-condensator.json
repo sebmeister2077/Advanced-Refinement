@@ -11,7 +11,6 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
-  "craftTime": 50,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
   "outputsPower": true,
@@ -41,9 +40,5 @@
     }
   ],
   "category": "crafting",
-  "research": "melter",
-  "outputItem": {
-    "item": "scrap",
-    "amount": 4.5
-  }
+  "research": "melter"
 }

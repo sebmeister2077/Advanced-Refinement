@@ -49,6 +49,5 @@
   ],
   "category": "power",
   "research": "uranium-reactor",
-  "ambientSound": "fire",
-  "ambientVolume": 0.25
+  "ambientSound": "fire"
 }
