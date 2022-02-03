@@ -9,7 +9,6 @@
   "hasItems": true,
   "craftTime": 120,
   "drawLiquidLight": true,
-  "updateEffectChance": 0.02,
   "consumes": {
     "items": {
       "items": [

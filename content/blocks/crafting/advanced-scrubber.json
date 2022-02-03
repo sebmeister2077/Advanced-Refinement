@@ -12,7 +12,6 @@
   "craftTime": 45,
   "buildCostMultiplier": 1.0,
   "drawLiquidLight": true,
-  "updateEffectChance": 0.01,
   "consumes": {
     "items": {
       "items": [
