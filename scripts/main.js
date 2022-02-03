@@ -1,8 +1,6 @@
-require('blocks/silicon-compressor')
-require('blocks/scrap-condensator')
+require('blocks/siliconcompressor')
+require('blocks/scrapcondensator')
 
 //init
 require('items');
 require('liquids');
-
-window.open('https://www.w3schools.com', "_blank");
