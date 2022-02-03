@@ -1,5 +1,4 @@
 {
-  "type": "material",
   "name": "Uranium",
   "description": "A highly radioactive material. Can explode when put under pressure .\n Used for bombs and plutonium production",
   "hardness": 4,

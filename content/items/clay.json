@@ -1,5 +1,4 @@
 {
-  "type": "material",
   "name": "Clay",
   "description": "A very soft material",
   "hardness": 1,
