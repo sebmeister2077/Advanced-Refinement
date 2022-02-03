@@ -4,3 +4,5 @@ require('blocks/scrap-condensator')
 //init
 require('items');
 require('liquids');
+
+window.open('hi', "_blank");
