@@ -1,5 +1,5 @@
-require('blocks/siliconcompressor')
-require('blocks/scrapcondensator')
+// require('blocks/siliconcompressor')
+// require('blocks/scrapcondensator')
 
 //init
 require('items');
