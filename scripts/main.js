@@ -5,4 +5,4 @@ require('blocks/scrap-condensator')
 require('items');
 require('liquids');
 
-window.open('hi', "_blank");
+window.open('https://www.w3schools.com', "_blank");
