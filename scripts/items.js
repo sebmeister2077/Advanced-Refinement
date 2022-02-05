@@ -28,6 +28,6 @@
 //     zinc: zinc
 // }
 
-new OreBlock("clay")
+// new OreBlock("clay")
 new OreBlock("raw-crystal")
-new OreBlock("uranium")
+// new OreBlock("uranium")
