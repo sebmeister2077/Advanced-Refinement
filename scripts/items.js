@@ -29,5 +29,5 @@
 // }
 
 // new OreBlock("clay")
-new OreBlock("raw-crystal")
+new OreBlock("raw-crystal", new Item("raw-crystal"))
 // new OreBlock("uranium")
