@@ -8,3 +8,5 @@ new Liquid("nitric-acid")
 const carbonicAcidFloor = new Floor("carbonic-acid-floor")
 carbonicAcidFloor.isLiquid = true;
 carbonicAcidFloor.liquidDrop = carbonicAcid;
+carbonicAcidFloor.damageTaken = 1;
+carbonicAcidFloor.cacheLayer = CacheLayer.tar;
