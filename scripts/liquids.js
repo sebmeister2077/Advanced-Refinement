@@ -7,4 +7,4 @@ new Liquid("nitric-acid")
 
 const carbonicAcid = new Floor("carbonic-acid")
 carbonicAcid.isLiquid = true;
-carbonicAcid.liquidDrop = Liquids.water;
+carbonicAcid.liquidDrop = Liquids.carbonic-acid;
