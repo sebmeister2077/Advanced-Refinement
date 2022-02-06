@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\blocks"
+    "\\content\\blocks",
+    "\\scripts"
   ],
+  "SelectedNode": "\\scripts\\liquids.js",
   "PreviewInSolutionExplorer": false
 }
