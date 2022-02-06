@@ -5,4 +5,5 @@ new Liquid("mineral-water")
 new Liquid("nitric-acid")
 
 
-new Floor("carbonic-acid")
+const carbonicAcid = new Floor("carbonic-acid")
+carbonicAcid.isLiquid = true;
