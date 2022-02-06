@@ -8,10 +8,10 @@ new Liquid("nitric-acid")
 const carbonicAcidFloor = new Floor("floor-carbonic-acid")
 carbonicAcidFloor = {
     ...carbonicAcidFloor,
-    isLiquid = true,
-    liquidDrop = carbonicAcid,
-    drownTime = 100,
-    status = StatusEffects.melting,
-    statusDuration = 200,
-    cacheLayer = cacheLayers.slag,
+    isLiquid: true,
+    liquidDrop: carbonicAcid,
+    drownTime: 100,
+    status: StatusEffects.melting,
+    statusDuration: 200,
+    cacheLayer: cacheLayers.slag,
 }
