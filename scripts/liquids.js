@@ -5,7 +5,7 @@ new Liquid("liquid-nitrogen")
 new Liquid("nitric-acid")
 
 
-const carbonicAcidFloor = new Floor("carbonic-acid-floor")
+const carbonicAcidFloor = new Floor("carbonic-acid")
 carbonicAcidFloor.isLiquid = true;
 carbonicAcidFloor.liquidDrop = carbonicAcid;
 carbonicAcidFloor.damageTaken = 1;
