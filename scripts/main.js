@@ -12,3 +12,6 @@ myDialog.addCloseButton();
 myDialog.cont.add("Goodbye.");
 // Show dialog
 myDialog.setVisible(true);
+
+Vars.ui.showInfoPopup("Yo", 40000, 10, 100, 100, 100, 100)
+Vars.ui.showInfo("Another info")
