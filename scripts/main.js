@@ -11,4 +11,4 @@ myDialog.addCloseButton();
 // Add text to the main content
 myDialog.cont.add("Goodbye.");
 // Show dialog
-myDialog.show();
+myDialog.setVisible(true);
