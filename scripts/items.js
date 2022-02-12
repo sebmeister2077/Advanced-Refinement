@@ -7,5 +7,6 @@ new OreBlock("spalerite", new Item("sphalerite"))
 const snowBlock = Vars.content.block("snow")
 snowBlock.itemDrop = new Item("snow");
 
-const iceBlock = Vars.content.block("ice");
-iceBlock.itemDrop = new Item("ice")
+const iceItem = new Item("ice");
+Vars.content.block("ice").itemDrop = iceItem;
+Vars.content.block("ice-snow").itemDrop = iceItem;
