@@ -15,5 +15,5 @@ carbonicAcidFloor.drownTime = 360;
 carbonicAcidFloor.variants = 1;
 carbonicAcidFloor.emitLight = true;
 carbonicAcidFloor.lightRadius = 10;
-//carbonicAcidFloor.statusEffect = StatusEffects.corroded;
+carbonicAcidFloor.statusEffect = StatusEffects.corroded;
 carbonicAcidFloor.cacheLayer = CacheLayer.tar;
