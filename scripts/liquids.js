@@ -11,6 +11,6 @@ carbonicAcidFloor.isLiquid = true;
 carbonicAcidFloor.liquidDrop = carbonicAcid;
 carbonicAcidFloor.damageTaken = 1;
 carbonicAcidFloor.speedMultiplier = 0.7;
-carbonicAcidFloor.drownSpeed = 360;
+carbonicAcidFloor.drownTime = 360;
 carbonicAcidFloor.statusEffect = StatusEffects.corroded;
 carbonicAcidFloor.cacheLayer = CacheLayer.tar;
