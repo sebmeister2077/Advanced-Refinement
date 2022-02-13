@@ -5,4 +5,4 @@ const scrapItem = Vars.content.item("scrap")
 if (!scrapItem)
     throw new Error("scrap item is null")
 scrapCondensator.itemDrop = scrapItem
-scrapCondensator.outputsItems = () => true; // overrides the hardcoded value
+//scrapCondensator.outputsItems = () => true; // overrides the hardcoded value
