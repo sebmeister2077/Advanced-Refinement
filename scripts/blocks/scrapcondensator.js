@@ -1,3 +1,5 @@
-const scrapCondensator = new ItemLiquidGenerator(true, true, "scrap-condensator");
+const scrapCondensator = new ItemLiquidGenerator("scrap-condensator");
+scrapCondensator.hasItems = true;
+scrapCondensator.hasLiquids = true;
 scrapCondensator.outputsItems = () => true; // overrides the hardcoded value
-scrapCondensator.outputItem = Vars.content.item("scrap")
+scrapCondensator.itemDrop = Vars.content.item("scrap")
