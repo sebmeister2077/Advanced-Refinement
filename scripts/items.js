@@ -25,4 +25,4 @@ clayFloor.needsSurface = false;
 Vars.content.block("snow").itemDrop = snowItem
 Vars.content.block("ice").itemDrop = iceItem;
 Vars.content.block("ice-snow").itemDrop = iceItem;
-Vars.content.block("molten-slag").solidifies = true; // slag liquid can be made solid
+// ? to be reasearched Vars.content.block("molten-slag").solidifies = true; // slag liquid can be made solid

@@ -1,6 +1,7 @@
 
 require('items');
 require('liquids');
+require('./blocks')
 
 
 Vars.enableConsole = true;// so i wont have to use the dev mode
