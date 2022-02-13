@@ -10,8 +10,11 @@ const iceItem = new Item("ice");
 
 //oreblocks
 const oreRawCrystal = new OreBlock("raw-crystal")
+oreRawCrystal.itemDrop = rawCrystalItem
 const oreHematite = new OreBlock("hematite")
+oreHematite.itemDrop = hematiteItem
 const oreSphalerite = new OreBlock("spalerite")
+oreSphalerite.itemDrop = sphaleriteItem;
 
 //floors
 
