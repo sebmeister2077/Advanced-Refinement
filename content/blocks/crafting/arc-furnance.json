@@ -9,8 +9,6 @@
   "hasItems": true,
   "hasLiquids": true,
   "craftTime": 360,
-  "buildCostMultiplier": 1.0,
-  "drawLiquidLight": true,
   "consumes": {
     "items": {
       "items": [
