@@ -3,8 +3,9 @@
     "",
     "\\content",
     "\\content\\blocks",
-    "\\scripts"
+    "\\scripts",
+    "\\scripts\\blocks"
   ],
-  "SelectedNode": "\\scripts\\items.js",
+  "SelectedNode": "\\scripts\\blocks\\scrapcondensator.js",
   "PreviewInSolutionExplorer": false
 }
